@@ -1,0 +1,4 @@
+pymongo
+tweepy>=4.0.0
+dnspython
+
